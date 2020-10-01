@@ -1,0 +1,23 @@
+.card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgb(0 ,0 , 0, 0.65);
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+}
+
+.form {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.card-title {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.submit {
+    margin-left: 70%;
+    margin-top: 20%;
+}
